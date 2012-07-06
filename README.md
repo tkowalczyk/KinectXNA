@@ -3,7 +3,7 @@ KinectXNA
 
 This simple application shows how to properly use [Kinect for Windows SDK](http://www.microsoft.com/en-us/kinectforwindows/ "Kinect for Windows SDK") with the XNA.
 
-In previous examples I showed how to use Kinect in the simple desktop apps based on WPF where an eventing model makes sense. When we want to use Kinect in the land of XNA we have to use another aproach - pooling model.
+In previous examples I explained how to use Kinect in the simple desktop apps based on WPF where an eventing model makes sense. When we want to use Kinect in the land of XNA we have to use another aproach - pooling model.
 
 In this example we are also using `GeometricPrimitive` class from Microsoft XNA Community Game Platform.
 
